@@ -4,7 +4,7 @@
 int estSuiteCroissante(int tableau[], int taille) {
     if (taille <= 1) {
         return 1;
-
+h
         if (tableau[taille - 1] < tableau[taille - 2]) {
             return 0;
 

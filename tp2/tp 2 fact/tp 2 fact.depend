@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697881350 source:/home/meriem/Documents/tp app info/tp2/tp 2 fact/main.c
+	<stdio.h>
+	<stdlib.h>
+
